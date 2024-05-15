@@ -73,7 +73,7 @@ def chap():
         print(f'\nyour linkedlist is {l.display()}\n')
     except NameError:
         print('** please add item in linkedlist **\n')
-
+# برای این دو تابع متاسفانه زمان کافی نداشتم 🫠
 def zarb():
     ...
 def jam():
